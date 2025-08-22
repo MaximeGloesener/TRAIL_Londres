@@ -18,6 +18,7 @@
 
 -> voir les colonnes qu'on garde et qu'on jette etc, être d'accord là dessus
 -> traitement des données manquantes ? nan ?
+-> voir testing.ipynb de otmane, utilisation de pycare
 
 ### Multimodal
 
